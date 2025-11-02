@@ -90,7 +90,5 @@ sesi-14/
 - Emulator Android 11 digunakan
 - Appium dijalankan dengan flag `--allow-cors`
 - Semua test dijalankan secara lokal dan berhasil `passing`
-```
-
 
 
